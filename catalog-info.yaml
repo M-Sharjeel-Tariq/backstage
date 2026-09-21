@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: backstage
   annotations:
+    backstage.io/techdocs-ref: dir:.
     github.com/project-slug: M-Sharjeel-Tariq/backstage
 spec:
   type: other
